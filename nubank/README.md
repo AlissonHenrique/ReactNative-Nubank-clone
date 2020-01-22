@@ -27,7 +27,7 @@ $ yarn dev
 
 ```
 
-Made with ♥ by Dana Rocha :wave: [Get in touch!](https://www.linkedin.com/in/alissonhenri/)
+Made with ♥ by Alisson Henrique :wave: [Get in touch!](https://www.linkedin.com/in/alissonhenri/)
 
 ## License
 
