@@ -14,7 +14,7 @@ You need to install these prerequisites on your computer before you can use:
 
 ```bash
 # Go expo
-$ npm add expo-cli --global
+$ yarn add expo-cli --global
 
 # Go into the repository
 $ cd nubank
