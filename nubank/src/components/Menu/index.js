@@ -1,6 +1,6 @@
 import React from 'react';
 
-//import QRCode from 'react-native-qrcode';
+import QRCode from 'react-native-qrcode-svg';
 import Icon from '@expo/vector-icons/MaterialIcons';
 
 import {
@@ -11,12 +11,12 @@ export default function Menu() {
   return (
     <Container>
       <Code>
-        {/* <QRCode
+        <QRCode
           value="https://rocketseat.com.br"
           size={80}
-          fgColor="#fff"
-          bgColor="#8B10AE"
-        />*/}
+          color="#8B10AE"
+
+        />
       </Code>
 
       <Nav>
